@@ -6,7 +6,6 @@ What's Included
 ---------------------
 * Java source files
 * Generated JavaDoc
-* Samples `names.txt` file
 
 How to Use
 ---------------------
