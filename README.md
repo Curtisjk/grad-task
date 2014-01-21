@@ -41,6 +41,6 @@ Mcdonald: Macdonald, Nest O'Malett
 ```
 
 ```
-java PhoneticSearch Winston Mcdonald < names.txt
+java PhoneticSearch Winston < names.txt
 Winston: No results found.
 ```
